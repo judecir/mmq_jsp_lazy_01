@@ -35,7 +35,7 @@ def read_instance_from_taillard(nome_arquivo):
             instancias.append({"id":i
                        ,"tempo":np.transpose(np.array(tempo))
                        ,"ordem":np.array(ordem)-1
-                       ,"lista_ub":[-1]})
+                       ,"lista_ub":[0]})
             i = i+1
             tempo = []
             ordem = []
