@@ -257,7 +257,7 @@ def execucao_modelos(instancias, modelos, prefixo_arq = "t_minlafav_",  tempo_ma
         for fl_inteiro in [True, False]:
             for mod in modelos:
                 for ub in lista_ub:
-                    print("Criando modelo: ")
+                    print("Criando modelo:")
                     modelo = mod(tempo, ordem, tempo_max=tempo_max, fl_inteiro=fl_inteiro, ub_cmax=ub)
                     # Desabilitar heuristica
                     if fl_heuristica_desabilitada:
@@ -395,12 +395,12 @@ def teste_solucao_inicial():
 def teste_lazy_constraint():
     instancias = criar_instancias()
     
-    lista_instancias = instancias[:22]
-    lista_modelos = [jsp_disjuntivo_manne, jsp_disjuntivo_minla_favorito]
+    lista_instancias = instancias[:2]
+    lista_modelos = [jsp_disjuntivo_minla_favorito, jsp_disjuntivo_manne]
     df = execucao_modelos(lista_instancias
                           ,lista_modelos
                           ,prefixo_arq="t_lazy"
-                          ,tempo_max=3600
+                          ,tempo_max=60
                           ,fl_primeira_sol=False
                           ,fl_heuristica_desabilitada=False)
     

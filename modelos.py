@@ -139,7 +139,7 @@ def jsp_manne_rest_ordem_maq_job(modelo, x, z, cmax, y, Problema):
         for h in range(1, m):
             h_maq     = ordem[j, h]
             h_maq_ant = ordem[j, (h-1)]
-            modelo.add_lazy_constraint(x[h_maq, j] >= x[h_maq_ant, j] + tempo[h_maq_ant, j])
+            modelo.add_constraint(x[h_maq, j] >= x[h_maq_ant, j] + tempo[h_maq_ant, j])
 
 # Precedência
 def jsp_manne_rest_precedencia(modelo, x, z, cmax, y, Problema):
@@ -333,7 +333,7 @@ def jsp_minla_rest_lb_xik(modelo, x, z, cmax, y, Problema):
     tempo       = Problema["tempo"]
     for i in Maquinas:
         for k in Jobs:
-            modelo.add_constraint(x[i,k] >= modelo.sum(z[i,j,k]*tempo[i,j] for j in Jobs if j<k)
+            modelo.add_lazy_constraint(x[i,k] >= modelo.sum(z[i,j,k]*tempo[i,j] for j in Jobs if j<k)
                                             +modelo.sum((1-z[i,k,j])*tempo[i,j] for j in Jobs if j>k))
 
 # Restricao lower bound da 1a maq de um job considerando os tempos de execucao
