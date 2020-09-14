@@ -333,7 +333,7 @@ def jsp_minla_rest_lb_xik(modelo, x, z, cmax, y, Problema):
     tempo       = Problema["tempo"]
     for i in Maquinas:
         for k in Jobs:
-            modelo.add_lazy_constraint(x[i,k] >= modelo.sum(z[i,j,k]*tempo[i,j] for j in Jobs if j<k)
+            modelo.add_constraint(x[i,k] >= modelo.sum(z[i,j,k]*tempo[i,j] for j in Jobs if j<k)
                                             +modelo.sum((1-z[i,k,j])*tempo[i,j] for j in Jobs if j>k))
 
 # Restricao lower bound da 1a maq de um job considerando os tempos de execucao
@@ -364,8 +364,8 @@ def jsp_minla_rest_lb_xik_p_menos(modelo, x, z, cmax, y, Problema):
                 if j<k:
                     P_menos_i_j = p_menos(tempo, ordem, i, j)
                     P_menos_i_k = p_menos(tempo, ordem, i, k)
-                    modelo.add_lazy_constraint(x[i,k] >=     z[i, j, k]*P_menos_i_j)
-                    modelo.add_lazy_constraint(x[i,j] >= (1-z[i, j, k])*P_menos_i_k)
+                    modelo.add_constraint(x[i,k] >=     z[i, j, k]*P_menos_i_j)
+                    modelo.add_constraint(x[i,j] >= (1-z[i, j, k])*P_menos_i_k)
 
 # Restricao lower bound makespan considerando o tempo de execucao
 # O makespan sera o inicio de um job k que precede outro job j em sua ultima 
@@ -397,7 +397,7 @@ def jsp_minla_rest_lb_cmax_x_p_mais(modelo, x, z, cmax, y, Problema):
     for i in Maquinas:
         for j in Jobs:
             P_mais = p_mais(m, n, tempo, ordem, i, j)
-            modelo.add_lazy_constraint(cmax>= x[i,j] + P_mais)
+            modelo.add_constraint(cmax>= x[i,j] + P_mais)
 
 # Restricao lower bound makespan considerando p mais
 # O makespan sera pelo menos o inicio de um job em uma maquina mais a soma de 
@@ -415,8 +415,8 @@ def jsp_minla_rest_lb_cmax_x_p_mais_k(modelo, x, z, cmax, y, Problema):
                 if j<k:
                     P_mais_i_k = p_mais(m, n, tempo, ordem, i, k)
                     P_mais_i_j = p_mais(m, n, tempo, ordem, i, j)
-                    modelo.add_lazy_constraint(cmax>= x[i,j] + tempo[i,j] + z[i, j, k]*P_mais_i_k)
-                    modelo.add_lazy_constraint(cmax>= x[i,k] + tempo[i,k] + (1-z[i, j, k])*P_mais_i_j)
+                    modelo.add_constraint(cmax>= x[i,j] + tempo[i,j] + z[i, j, k]*P_mais_i_k)
+                    modelo.add_constraint(cmax>= x[i,k] + tempo[i,k] + (1-z[i, j, k])*P_mais_i_j)
 
 # Restricao que limita o inicio de um job para o termino do seu anterior
 # e todos os jobs a soma do tempo de processamento de todos entre eles
