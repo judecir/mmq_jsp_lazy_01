@@ -396,7 +396,7 @@ def teste_lazy_constraint():
     instancias = criar_instancias()
     
     lista_instancias = instancias[:33]
-    lista_modelos = [jsp_disjuntivo_manne,jsp_disjuntivo_minla_favorito]
+    lista_modelos = [jsp_disjuntivo_manne, jsp_disjuntivo_minla_favorito]
     df = execucao_modelos(lista_instancias
                           ,lista_modelos
                           ,prefixo_arq="t_lazy"
