@@ -400,7 +400,7 @@ def teste_lazy_constraint():
     df = execucao_modelos(lista_instancias
                           ,lista_modelos
                           ,prefixo_arq="t_lazy"
-                          ,tempo_max=60
+                          ,tempo_max=3600
                           ,fl_primeira_sol=False
                           ,fl_heuristica_desabilitada=False)
     
