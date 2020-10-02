@@ -1,0 +1,311 @@
+Version identifier: 12.10.0.0 | 2019-11-26 | 843d4de
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_RandomSeed                              201903125
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_Output_IntSolFilePrefix                 "solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol"
+Lazy constraint(s) or lazy constraint/branch callback is present.
+    Disabling dual reductions (CPX_PARAM_REDUCE) in presolve.
+    Disabling non-linear reductions (CPX_PARAM_PRELINEAR) in presolve.
+    Disabling presolve reductions that prevent crushing forms.
+Tried aggregator 1 time.
+Reduced MIP has 3375 rows, 1801 columns, and 9900 nonzeros.
+Reduced MIP has 1575 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (2.48 ticks)
+Probing time = 0.00 sec. (1.42 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 3375 rows, 1801 columns, and 9900 nonzeros.
+Reduced MIP has 1575 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (2.26 ticks)
+Probing time = 0.00 sec. (1.42 ticks)
+Problem contains 6750 lazy constraints.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 8 threads.
+Root relaxation solution time = 0.01 sec. (26.72 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+      0     0      963.0000   168                    963.0000      756         
+      0     0      970.6721   168                   Cuts: 143      990         
+      0     0      981.0053   168                   Cuts: 296     1267         
+      0     0      982.9720   168                   Cuts: 205     1435         
+      0     0      982.9720   168                   Cuts: 296     1542         
+      0     0      982.9720   168                    Cuts: 41     1642         
+      0     0      982.9720   168                   Cuts: 346     1791         
+*     0+    0                         1688.0000      982.9720            41.77%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00001.sol'.
+*     0+    0                         1667.0000      982.9720            41.03%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00002.sol'.
+*     0+    0                         1643.0000      982.9720            40.17%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00003.sol'.
+      0     0  -1.00000e+75     0     1643.0000      982.9720     1791   40.17%
+      0     2      982.9720   137     1643.0000      982.9720     1791   40.17%
+Elapsed time = 0.41 sec. (629.94 ticks, tree = 0.02 MB, solutions = 3)
+*     7+    5                         1635.0000     1010.0000            38.23%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00004.sol'.
+*     7+    4                         1635.0000     1010.0000            38.23%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00005.sol'.
+*     8+    6                         1632.0000     1010.0000            38.11%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00006.sol'.
+*     9+    7                         1611.0000     1010.0000            37.31%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00007.sol'.
+*    10+    7                         1586.0000     1010.0000            36.32%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00008.sol'.
+*    26+    6                         1555.0000     1010.0000            35.05%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00009.sol'.
+*    26+   21                         1551.0000     1010.0000            34.88%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00010.sol'.
+*    32+    1                         1546.0000     1010.0000            34.67%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00011.sol'.
+*    39+    1                         1537.0000     1010.0000            34.29%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00012.sol'.
+*    41+    1                         1536.0000     1010.0000            34.24%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00013.sol'.
+*    47+    4                         1531.0000     1010.0000            34.03%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00014.sol'.
+*    54+    1                         1517.0000     1010.0000            33.42%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00015.sol'.
+*    62+    1                         1515.0000     1010.0000            33.33%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00016.sol'.
+*    84+    1                         1511.0000     1010.0000            33.16%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00017.sol'.
+    112   102     1069.0000   102     1511.0000     1010.0000     4780   33.16%
+*   113+    1                         1508.0000     1010.0000            33.02%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00018.sol'.
+*   120+    1                         1482.0000     1010.0000            31.85%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00019.sol'.
+*   147+  131                         1481.0000     1010.0000            31.80%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00020.sol'.
+*   167+  150                         1480.0000     1010.0000            31.76%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00021.sol'.
+*   226+  197                         1471.0000     1010.0000            31.34%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00022.sol'.
+*   262+  234                         1460.0000     1010.0000            30.82%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00023.sol'.
+*   290+  254                         1448.0000     1010.0000            30.25%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00024.sol'.
+    290   256     1346.0000    45     1448.0000     1010.0000     8661   30.25%
+*   303+  274                         1442.0000     1010.0000            29.96%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00025.sol'.
+*   309+  274                         1438.0000     1010.0000            29.76%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00026.sol'.
+*   500+  426                         1435.0000     1010.0000            29.62%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00027.sol'.
+*   522+  453                         1426.0000     1010.0000            29.17%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00028.sol'.
+    526   465     1188.0000    71     1426.0000     1010.0000    13316   29.17%
+*   675+  576                         1424.0000     1010.0000            29.07%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00029.sol'.
+*   716+  689                         1418.0000     1010.0000            28.77%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00030.sol'.
+    728   700     1116.0000    86     1418.0000     1010.0000    17968   28.77%
+*  1010+  781                         1416.0000     1010.0000            28.67%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00031.sol'.
+   1171   907     1211.0000    55     1416.0000     1010.0000    21745   28.67%
+   1846  1513     1246.0000    49     1416.0000     1010.0000    34064   28.67%
+*  1929+ 1460                         1414.0000     1010.0000            28.57%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00032.sol'.
+*  1931+ 1460                         1398.0000     1010.0000            27.75%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00033.sol'.
+*  1931+ 1460                         1392.0000     1010.0000            27.44%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00034.sol'.
+*  1931+ 1460                         1381.0000     1010.0000            26.86%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00035.sol'.
+*  1931+ 1460                         1373.0000     1010.0000            26.44%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00036.sol'.
+*  1931+ 1460                         1371.0000     1010.0000            26.33%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00037.sol'.
+*  1931+ 1460                         1370.0000     1010.0000            26.28%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00038.sol'.
+*  1931+ 1460                         1363.0000     1010.0000            25.90%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00039.sol'.
+*  1931+ 1460                         1357.0000     1010.0000            25.57%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00040.sol'.
+*  1931+ 1460                         1344.0000     1010.0000            24.85%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00041.sol'.
+*  1931+ 1460                         1331.0000     1010.0000            24.12%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00042.sol'.
+*  1931+ 1460                         1323.0000     1010.0000            23.66%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00043.sol'.
+*  1931+ 1460                         1322.0000     1010.0000            23.60%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00044.sol'.
+*  1931+ 1460                         1320.0000     1010.0000            23.48%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00045.sol'.
+*  1931+ 1460                         1319.0000     1010.0000            23.43%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00046.sol'.
+*  1931+ 1460                         1317.0000     1010.0000            23.31%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00047.sol'.
+*  1931+ 1460                         1312.0000     1010.0000            23.02%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00048.sol'.
+*  1931+ 1460                         1310.0000     1010.0000            22.90%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00049.sol'.
+*  1931+ 1460                         1300.0000     1010.0000            22.31%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00050.sol'.
+   1931  1462     1150.0000   104     1300.0000     1010.0000    33427   22.31%
+
+Performing restart 1
+
+Repeating presolve.
+Tried aggregator 1 time.
+MIP Presolve eliminated 23 rows and 21 columns.
+MIP Presolve modified 4662 coefficients.
+Reduced MIP has 3352 rows, 1780 columns, and 9812 nonzeros.
+Reduced MIP has 1554 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (3.38 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 3352 rows, 1780 columns, and 9812 nonzeros.
+Reduced MIP has 1554 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (3.06 ticks)
+Represolve time = 0.04 sec. (49.90 ticks)
+Problem contains 6750 lazy constraints.
+   1932     0      992.4088   177     1300.0000     Cuts: 938    40676   22.31%
+   1932     0     1000.9708   177     1300.0000     Cuts: 899    40986   22.31%
+   1932     0     1010.0000   177     1300.0000     Cuts: 438    41251   22.31%
+   1932     0     1011.4235   177     1300.0000     Cuts: 863    41513   22.20%
+   1932     0     1011.4235   177     1300.0000     Cuts: 348    41706   22.20%
+   1932     0     1011.4235   177     1300.0000     Cuts: 135    41841   22.20%
+   1932     0     1011.4235   177     1300.0000     Cuts: 938    42049   22.20%
+   1932     0     1011.4235   177     1300.0000     Cuts: 266    42180   22.20%
+   1932     0     1011.4235   177     1300.0000     Cuts: 144    42300   22.20%
+   1932     0     1011.4235   177     1300.0000     Cuts: 526    42516   22.20%
+*  1932+    0                         1298.0000     1011.4235            22.08%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00051.sol'.
+*  1932+    0                         1297.0000     1011.4235            22.02%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00052.sol'.
+*  1932+    0                         1293.0000     1011.4235            21.78%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00053.sol'.
+   1932     0  -1.00000e+75     0     1293.0000     1011.4235    42516   21.78%
+   1932     2     1011.4235   100     1293.0000     1011.4235    42516   21.78%
+*  1942+    5                         1291.0000     1015.0000            21.38%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00054.sol'.
+   1951    16     1103.0000    96     1291.0000     1015.0000    43518   21.38%
+*  1953+    6                         1284.0000     1015.0000            20.95%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00055.sol'.
+*  1954+    6                         1279.0000     1015.0000            20.64%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00056.sol'.
+   2789   706     1233.0000   101     1279.0000     1028.0000    69627   19.62%
+Elapsed time = 6.59 sec. (7273.77 ticks, tree = 0.98 MB, solutions = 119)
+*  3020+  744                         1278.0000     1042.0000            18.47%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00057.sol'.
+*  3270+  868                         1276.0000     1042.0000            18.34%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00058.sol'.
+*  3947+  953                         1272.0000     1047.9105            17.62%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00059.sol'.
+*  3981+  953                         1271.0000     1047.9105            17.55%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00060.sol'.
+   4062  1616     1084.0000   124     1271.0000     1047.9105   108670   17.55%
+*  4104+ 1464                         1269.0000     1047.9105            17.42%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00061.sol'.
+*  4111+ 1479                         1260.0000     1047.9105            16.83%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00062.sol'.
+*  4116+ 1479                         1259.0000     1047.9105            16.77%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00063.sol'.
+*  4131+ 1479                         1257.0000     1047.9105            16.63%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00064.sol'.
+*  4135+ 1479                         1256.0000     1047.9105            16.57%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00065.sol'.
+*  4144+ 1479                         1253.0000     1047.9105            16.37%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00066.sol'.
+*  4148+ 1479                         1251.0000     1047.9105            16.23%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00067.sol'.
+*  4232+ 1479                         1249.0000     1047.9105            16.10%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00068.sol'.
+*  4251+ 1479                         1245.0000     1047.9105            15.83%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00069.sol'.
+*  4257+ 1479                         1239.0000     1047.9105            15.42%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00070.sol'.
+   4312  1626     1185.0000    70     1239.0000     1047.9105   116601   15.42%
+*  4316+ 1479                         1234.0000     1047.9105            15.08%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00071.sol'.
+   5224  2020     1146.0000    86     1234.0000     1067.0000   146162   13.53%
+   6394  2751     1151.0000   108     1234.0000     1073.0000   190372   13.05%
+*  7245+ 3236                         1233.0000     1082.5341            12.20%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00072.sol'.
+   7334  3236     1145.5341    86     1233.0000     1082.5341   221078   12.20%
+*  7712+ 3591                         1231.0000     1082.5341            12.06%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00073.sol'.
+*  7738  3626      integral     0     1230.0000     1082.5341   240091   11.99%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00074.sol'.
+*  8080+ 3913                         1228.0000     1085.0000            11.64%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00075.sol'.
+*  8145  3865      integral     0     1227.0000     1085.0000   259462   11.57%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00076.sol'.
+*  8317+ 3818                         1226.0000     1085.0379            11.50%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00077.sol'.
+   8696  4025     1207.0000    59     1226.0000     1085.0379   271139   11.50%
+   9606  4826     1217.0000    64     1226.0000     1088.9318   317863   11.18%
+*  9662+ 4827                         1223.0000     1088.9318            10.96%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00078.sol'.
+*  9696+ 4715                         1222.0000     1088.9318            10.89%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00079.sol'.
+*  9836+ 4699                         1220.0000     1088.9318            10.74%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00080.sol'.
+* 10343+ 4691                         1219.0000     1092.0000            10.42%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00081.sol'.
+* 10363+ 4863                         1218.0000     1092.0000            10.34%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00082.sol'.
+  10478  4931     1210.0000    41     1218.0000     1097.0000   354934    9.93%
+* 10537+ 4966                         1217.0000     1097.0000             9.86%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00083.sol'.
+* 10629+ 4888                         1216.0000     1097.0000             9.79%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00084.sol'.
+* 10687+ 4807                         1214.0000     1097.0000             9.64%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00085.sol'.
+* 10711+ 4807                         1214.0000     1097.0000             9.64%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00086.sol'.
+* 10759+ 4673                         1213.0000     1097.0000             9.56%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00087.sol'.
+  11777  5119     1115.0000    93     1213.0000     1100.0000   389838    9.32%
+  12736  5639     1188.0737    70     1213.0000     1100.0000   436693    9.32%
+Elapsed time = 20.50 sec. (16828.13 ticks, tree = 7.02 MB, solutions = 199)
+* 13282+ 6117                         1212.0000     1102.5118             9.03%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00088.sol'.
+  13439  6083     1114.0000    78     1212.0000     1103.0000   488522    8.99%
+  14411  6543     1135.6364   107     1212.0000     1105.0000   534087    8.83%
+* 15231+ 6639                         1210.0000     1105.0000             8.68%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00089.sol'.
+* 15286+ 6723                         1207.0000     1105.0000             8.45%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00090.sol'.
+* 15301+ 6723                         1203.0000     1105.0000             8.15%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00091.sol'.
+* 15334+ 6687                         1196.0000     1105.0000             7.61%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00092.sol'.
+* 15347+ 6687                         1195.0000     1105.0000             7.53%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00093.sol'.
+  15400  5762        cutoff           1195.0000     1105.0000   596237    7.53%
+* 15507+ 5822                         1193.0000     1105.0000             7.38%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00094.sol'.
+  16213  5552     1130.0000   101     1193.0000     1105.0000   634844    7.38%
+  16949  5682        cutoff           1193.0000     1107.0795   689666    7.20%
+* 17321  5543      integral     0     1189.0000     1107.9062   726188    6.82%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00095.sol'.
+  18571  5194    infeasible           1189.0000     1111.0000   769010    6.56%
+  19269  4838     1142.7955    89     1189.0000     1117.0000   863024    6.06%
+* 20696  4723      integral     0     1186.0000     1121.7821   904584    5.41%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00096.sol'.
+* 20700  4544      integral     0     1185.0000     1121.7821   928312    5.33%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00097.sol'.
+  21030  4661        cutoff           1185.0000     1123.3333   928026    5.20%
+* 21863+ 3783                         1184.0000     1131.2286             4.46%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00098.sol'.
+* 21945  3471      integral     0     1182.0000     1131.2286  1008580    4.30%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00099.sol'.
+  23009  3172     1141.0000    62     1182.0000     1140.0000  1024592    3.55%
+* 25894+  136                         1181.0000     1180.0000             0.08%
+New incumbent written to file 'solucoes/t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0/sol-00100.sol'.
+
+Cover cuts applied:  8
+Implied bound cuts applied:  65
+Flow cuts applied:  32
+Mixed integer rounding cuts applied:  242
+Gomory fractional cuts applied:  34
+
+Root node processing (before b&c):
+  Real time             =    0.40 sec. (631.34 ticks)
+Parallel b&c, 8 threads:
+  Real time             =   34.79 sec. (25433.07 ticks)
+  Sync time (average)   =    5.65 sec.
+  Wait time (average)   =    0.06 sec.
+                          ------------
+Total (root+branch&cut) =   35.18 sec. (26064.41 ticks)

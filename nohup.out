@@ -1,0 +1,1782 @@
+Criando modelo:
+Modelo t_lazy_ID001M003J004_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 29.0
+Detalhes status  = integer optimal solution
+time    = 0.00805902 s.
+problem = MILP
+gap     = 0%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID001M003J004_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 29.0
+Detalhes status  = integer optimal solution
+time    = 0.00434589 s.
+problem = MILP
+gap     = 0%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID001M003J004_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 23.0
+Detalhes status  = optimal
+time    = 0.000363111 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID001M003J004_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 23.0
+Detalhes status  = optimal
+time    = 0.00078392 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID002M003J005_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 33.0
+Detalhes status  = integer optimal solution
+time    = 0.00977182 s.
+problem = MILP
+gap     = 0%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID002M003J005_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 33.0
+Detalhes status  = integer optimal, tolerance
+time    = 0.012418 s.
+problem = MILP
+gap     = 3.03245e-05%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID002M003J005_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 23.0
+Detalhes status  = optimal
+time    = 0.000456095 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID002M003J005_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 23.0
+Detalhes status  = optimal
+time    = 0.00134397 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID003M015J015_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1210.0
+Detalhes status  = integer optimal, tolerance
+time    = 525.302 s.
+problem = MILP
+gap     = 0.00654611%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID003M015J015_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1210.0
+Detalhes status  = integer optimal, tolerance
+time    = 406.372 s.
+problem = MILP
+gap     = 1.37271e-06%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID003M015J015_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 963.0
+Detalhes status  = optimal
+time    = 0.0164349 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID003M015J015_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 963.0
+Detalhes status  = optimal
+time    = 0.064662 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID004M015J015_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1177.0
+Detalhes status  = integer optimal, tolerance
+time    = 2467.57 s.
+problem = MILP
+gap     = 0.00989107%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID004M015J015_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1177.0
+Detalhes status  = integer optimal, tolerance
+time    = 1770.21 s.
+problem = MILP
+gap     = 0.00698316%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID004M015J015_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 942.0
+Detalhes status  = optimal
+time    = 0.0165331 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID004M015J015_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 942.0
+Detalhes status  = optimal
+time    = 0.0426881 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID005M015J015_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1197.0
+Detalhes status  = integer optimal, tolerance
+time    = 1457.47 s.
+problem = MILP
+gap     = 0.00975444%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID005M015J015_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1197.0
+Detalhes status  = integer optimal, tolerance
+time    = 3525.49 s.
+problem = MILP
+gap     = 0.00995635%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID005M015J015_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 921.0
+Detalhes status  = optimal
+time    = 0.018873 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID005M015J015_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 921.0
+Detalhes status  = optimal
+time    = 0.0671952 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID006M015J015_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1172.0
+Detalhes status  = integer optimal, tolerance
+time    = 2646.89 s.
+problem = MILP
+gap     = 0.0049348%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID006M015J015_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1176.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 7.22789%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID006M015J015_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 911.0
+Detalhes status  = optimal
+time    = 0.01737 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID006M015J015_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 911.0
+Detalhes status  = optimal
+time    = 0.043916 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID007M015J015_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1236.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 8.73786%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID007M015J015_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1232.0
+Detalhes status  = time limit exceeded
+time    = 3600.03 s.
+problem = MILP
+gap     = 8.6039%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID007M015J015_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 940.0
+Detalhes status  = optimal
+time    = 0.019798 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID007M015J015_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 940.0
+Detalhes status  = optimal
+time    = 0.0668302 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID008M015J015_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1162.0
+Detalhes status  = integer optimal, tolerance
+time    = 881.811 s.
+problem = MILP
+gap     = 0.0080224%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID008M015J015_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1162.0
+Detalhes status  = integer optimal, tolerance
+time    = 1496.46 s.
+problem = MILP
+gap     = 0.00948733%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID008M015J015_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 849.0
+Detalhes status  = optimal
+time    = 0.018924 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID008M015J015_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 849.0
+Detalhes status  = optimal
+time    = 0.067492 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID009M015J015_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1243.0
+Detalhes status  = integer optimal, tolerance
+time    = 264.872 s.
+problem = MILP
+gap     = 8.08576e-07%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID009M015J015_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1243.0
+Detalhes status  = integer optimal, tolerance
+time    = 749.089 s.
+problem = MILP
+gap     = 0.00368877%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID009M015J015_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 935.0
+Detalhes status  = optimal
+time    = 0.019541 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID009M015J015_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 935.0
+Detalhes status  = optimal
+time    = 0.0683351 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID010M015J015_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1181.0
+Detalhes status  = integer optimal solution
+time    = 60.3392 s.
+problem = MILP
+gap     = 0%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID010M015J015_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1181.0
+Detalhes status  = integer optimal solution
+time    = 35.2337 s.
+problem = MILP
+gap     = 0%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID010M015J015_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 963.0
+Detalhes status  = optimal
+time    = 0.0152769 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID010M015J015_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 963.0
+Detalhes status  = optimal
+time    = 0.040982 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID011M015J015_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1298.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 8.56937%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID011M015J015_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1293.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 9.20847%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID011M015J015_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 982.0
+Detalhes status  = optimal
+time    = 0.020761 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID011M015J015_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 982.0
+Detalhes status  = optimal
+time    = 0.0437019 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID012M015J015_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1206.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 6.71642%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID012M015J015_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1206.0
+Detalhes status  = integer optimal, tolerance
+time    = 3549.91 s.
+problem = MILP
+gap     = 0.00899084%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID012M015J015_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 896.0
+Detalhes status  = optimal
+time    = 0.0186241 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID012M015J015_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 896.0
+Detalhes status  = optimal
+time    = 0.0669339 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID013M015J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1393.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 17.8751%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID013M015J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1417.0
+Detalhes status  = time limit exceeded
+time    = 3601.12 s.
+problem = MILP
+gap     = 19.1249%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID013M015J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 949.0
+Detalhes status  = optimal
+time    = 0.0407772 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID013M015J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 949.0
+Detalhes status  = optimal
+time    = 0.115508 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID014M015J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1416.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 22.3164%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID014M015J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1420.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 22.1392%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID014M015J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1012.0
+Detalhes status  = optimal
+time    = 0.0482941 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID014M015J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1012.0
+Detalhes status  = optimal
+time    = 0.0834851 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID015M015J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1405.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 19.2713%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID015M015J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1412.0
+Detalhes status  = time limit exceeded
+time    = 3600.09 s.
+problem = MILP
+gap     = 22.4295%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID015M015J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 919.0
+Detalhes status  = optimal
+time    = 0.047929 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID015M015J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 919.0
+Detalhes status  = optimal
+time    = 0.114859 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID016M015J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1378.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 23.0879%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID016M015J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1355.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 21.1878%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID016M015J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 990.0
+Detalhes status  = optimal
+time    = 0.052495 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID016M015J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 990.0
+Detalhes status  = optimal
+time    = 0.084734 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID017M015J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1405.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 23.3403%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID017M015J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1445.0
+Detalhes status  = time limit exceeded
+time    = 3601.28 s.
+problem = MILP
+gap     = 25.911%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID017M015J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 880.0
+Detalhes status  = optimal
+time    = 0.045423 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID017M015J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 880.0
+Detalhes status  = optimal
+time    = 0.114274 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID018M015J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1483.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 27.4679%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID018M015J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1477.0
+Detalhes status  = time limit exceeded
+time    = 3600.09 s.
+problem = MILP
+gap     = 25.8703%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID018M015J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 932.0
+Detalhes status  = optimal
+time    = 0.0888958 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID018M015J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 932.0
+Detalhes status  = optimal
+time    = 0.114982 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID019M015J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1468.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 22.7196%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID019M015J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1490.0
+Detalhes status  = time limit exceeded
+time    = 3600.09 s.
+problem = MILP
+gap     = 23.2874%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID019M015J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 979.0
+Detalhes status  = optimal
+time    = 0.0474 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID019M015J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 979.0
+Detalhes status  = optimal
+time    = 0.113276 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID020M015J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1523.0
+Detalhes status  = time limit exceeded
+time    = 3600.26 s.
+problem = MILP
+gap     = 28.7078%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID020M015J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1481.0
+Detalhes status  = time limit exceeded
+time    = 3600.09 s.
+problem = MILP
+gap     = 26.4106%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID020M015J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 900.0
+Detalhes status  = optimal
+time    = 0.045053 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID020M015J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 900.0
+Detalhes status  = optimal
+time    = 0.115908 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID021M015J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1405.0
+Detalhes status  = time limit exceeded
+time    = 3601.35 s.
+problem = MILP
+gap     = 25.6535%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID021M015J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1406.0
+Detalhes status  = time limit exceeded
+time    = 3600.09 s.
+problem = MILP
+gap     = 23.6059%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID021M015J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 920.0
+Detalhes status  = optimal
+time    = 0.0581849 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID021M015J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 920.0
+Detalhes status  = optimal
+time    = 0.0841432 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID022M015J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1446.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 24.3518%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID022M015J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1454.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 25.2407%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID022M015J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 928.0
+Detalhes status  = optimal
+time    = 0.058234 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID022M015J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 928.0
+Detalhes status  = optimal
+time    = 0.0829601 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID023M020J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1626.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 15.5687%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID023M020J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1625.0
+Detalhes status  = time limit exceeded
+time    = 3600.27 s.
+problem = MILP
+gap     = 16.3692%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID023M020J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1217.0
+Detalhes status  = optimal
+time    = 0.0631459 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID023M020J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1217.0
+Detalhes status  = optimal
+time    = 0.117855 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID024M020J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1601.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 13.6165%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID024M020J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1649.0
+Detalhes status  = time limit exceeded
+time    = 3600.3 s.
+problem = MILP
+gap     = 17.1619%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID024M020J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1223.0
+Detalhes status  = optimal
+time    = 0.0714228 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID024M020J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1223.0
+Detalhes status  = optimal
+time    = 0.162602 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID025M020J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1638.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 17.9258%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID025M020J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1633.0
+Detalhes status  = time limit exceeded
+time    = 3600.11 s.
+problem = MILP
+gap     = 18.5548%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID025M020J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1164.0
+Detalhes status  = optimal
+time    = 0.0737739 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID025M020J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1164.0
+Detalhes status  = optimal
+time    = 0.124508 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID026M020J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1688.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 21.2605%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID026M020J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1677.0
+Detalhes status  = time limit exceeded
+time    = 3600.12 s.
+problem = MILP
+gap     = 20.7884%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID026M020J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1151.0
+Detalhes status  = optimal
+time    = 0.0749798 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID026M020J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1151.0
+Detalhes status  = optimal
+time    = 0.160068 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID027M020J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1695.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 21.3993%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID027M020J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1726.0
+Detalhes status  = time limit exceeded
+time    = 3600.08 s.
+problem = MILP
+gap     = 20.9682%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID027M020J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1170.0
+Detalhes status  = optimal
+time    = 0.0682149 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID027M020J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1170.0
+Detalhes status  = optimal
+time    = 0.158455 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID028M020J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1677.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 19.4063%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID028M020J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1688.0
+Detalhes status  = time limit exceeded
+time    = 3600.08 s.
+problem = MILP
+gap     = 19.9853%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID028M020J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1207.0
+Detalhes status  = optimal
+time    = 0.0703609 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID028M020J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1207.0
+Detalhes status  = optimal
+time    = 0.125104 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID029M020J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1732.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 16.7436%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID029M020J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1715.0
+Detalhes status  = time limit exceeded
+time    = 3600.11 s.
+problem = MILP
+gap     = 15.551%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID029M020J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1291.0
+Detalhes status  = optimal
+time    = 0.0698769 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID029M020J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1291.0
+Detalhes status  = optimal
+time    = 0.122337 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID030M020J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1595.0
+Detalhes status  = time limit exceeded
+time    = 3600.16 s.
+problem = MILP
+gap     = 11.6752%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID030M020J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1630.0
+Detalhes status  = time limit exceeded
+time    = 3600.08 s.
+problem = MILP
+gap     = 12.3926%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID030M020J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1221.0
+Detalhes status  = optimal
+time    = 0.0653679 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID030M020J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1221.0
+Detalhes status  = optimal
+time    = 0.122523 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID031M020J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1696.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 17.1438%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID031M020J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1691.0
+Detalhes status  = time limit exceeded
+time    = 3600.11 s.
+problem = MILP
+gap     = 16.5652%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID031M020J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1227.0
+Detalhes status  = optimal
+time    = 0.066319 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID031M020J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1227.0
+Detalhes status  = optimal
+time    = 0.122195 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID032M020J020_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1657.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 16.5963%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID032M020J020_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1670.0
+Detalhes status  = time limit exceeded
+time    = 3600.11 s.
+problem = MILP
+gap     = 16.7854%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID032M020J020_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1212.0
+Detalhes status  = optimal
+time    = 0.082099 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID032M020J020_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1212.0
+Detalhes status  = optimal
+time    = 0.123192 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID033M015J030_ZintTrue_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1925.0
+Detalhes status  = time limit exceeded
+time    = 3600.03 s.
+problem = MILP
+gap     = 41.1017%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID033M015J030_ZintTrue_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 1815.0
+Detalhes status  = time limit exceeded
+time    = 3600.18 s.
+problem = MILP
+gap     = 37.135%
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID033M015J030_ZintFalse_manne_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 990.0
+Detalhes status  = optimal
+time    = 0.134083 s.
+problem = LP
+
+==================
+
+Criando modelo:
+Modelo t_lazy_ID033M015J030_ZintFalse_minla_fav_ub0 criado! com UB do cmax =  0
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 990.0
+Detalhes status  = optimal
+time    = 0.276515 s.
+problem = LP
+
+==================
+
